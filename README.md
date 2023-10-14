@@ -1,0 +1,1 @@
+# go-config-example-with-embed
